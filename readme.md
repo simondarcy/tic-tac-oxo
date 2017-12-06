@@ -5,6 +5,8 @@
 
 When I used to work in a supermarket I used to play Tic Tac Toe with OxO Cube boxes whenever I was asked to "face off" the aisle in which contained them.
 
+[Play Now!](http://www.simondarcyonline.com/oxo/)
+
 **AI**
 
 This game uses the minimax algorithm making the game unbeatable
